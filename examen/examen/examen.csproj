@@ -98,6 +98,7 @@
     <Content Include="AgregarArea.aspx" />
     <Content Include="AgregarEmpleado.aspx" />
     <Content Include="AgregarHabilidades.aspx" />
+    <Content Include="examen.sql" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
@@ -115,6 +116,7 @@
     <Content Include="Empleados.aspx" />
     <Content Include="index.aspx" />
     <Content Include="Organizacion.aspx" />
+    <Content Include="procedimientos examen.sql" />
     <Content Include="scripts\ai.0.22.9-build00167.js" />
     <Content Include="scripts\ai.0.22.9-build00167.min.js" />
     <Content Include="Web.config" />

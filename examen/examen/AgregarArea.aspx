@@ -7,7 +7,9 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <title></title>
     <style type="text/css">
-        form { 
+
+        form {
+            
 margin: 0 auto; 
 width:250px;
 }
